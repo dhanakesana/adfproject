@@ -1,0 +1,9 @@
+{
+	"name": "gitdhanaadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48f8420b-6ce0-4328-a4cc-2c77b6818d91",
+		"tenantId": "78519d2d-b3c8-4b20-8aa9-e9fac1b5f1aa"
+	}
+}
